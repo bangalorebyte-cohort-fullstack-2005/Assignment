@@ -5,18 +5,22 @@
 
 }
 
-.navbar-nav{
-    font-family: "Roboto",cursive;
-    text-transform:uppercase;
-    font-weight: 500rem;
-    padding: 1.7rem;
-    color: green;
-}
+
 /*
 .header_area.main-menu.navbar{
     padding: 5 100rem 100 20rem;
     }
 */
+.nav-paritosh{
+    font-family: "Roboto",cursive;
+    text-transform:uppercase ;
+    font-weight: 100rem ;
+    padding: 1.7rem ;
+    list-style-type: none;
+    color:green ;
+
+}
+
 .nav-link{
-    color: green;
+    color: brown;
 }
