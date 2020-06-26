@@ -1,0 +1,22 @@
+@import url(./font.css);
+
+.navbar-brand{
+    padding: 10px 50px;
+
+}
+
+.navbar-nav{
+    font-family: "Roboto",cursive;
+    text-transform:uppercase;
+    font-weight: 500rem;
+    padding: 1.7rem;
+    color: green;
+}
+/*
+.header_area.main-menu.navbar{
+    padding: 5 100rem 100 20rem;
+    }
+*/
+.nav-link{
+    color: green;
+}
